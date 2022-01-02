@@ -8,6 +8,7 @@ Today's generation The Millenials are more health obsessed than the generations 
 <br>
 Therefore, for this health obsessed generation and all to come, a very basic EDA analysis which can be applied and scaled to suit menus of other restaurant chains. I analyzed the calorie, protein, sodium and fat content to name a few of the drinks that appear on a Starbucks menu. Which give valuable insights regarding the distribution of said nutrients in their beverages. This EDA analysis is primarily aimed at health coaches, instructors and even people trying to plan their diet on their own time at home.
 <br>
+<br>
 # **How to run**
 
 - Jupyter Notebook.
