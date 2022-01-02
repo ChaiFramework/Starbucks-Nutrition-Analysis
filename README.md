@@ -1,6 +1,6 @@
 # **Starbucks-Nutrition-Analysis**
 
-Starbucks is everyone's go to for a quick caffeine fix. Ensuring quality, quantity and premium blends of coffee has kept Starbucks on top of its competition for years.
+Starbucks is everyone's go to for a quick caffeine fix. Ensuring quality, quantity, variety and premium blends of coffee has kept Starbucks on top of its competition for years.
 <br>
 <br>
 Today's generation The Millenials are more health obsessed than the generations before, While at the sametime craving some of the best the food industry has to offer. Well sometimes the best comes with a little catch. From, The colonel's chicked to dunkin's donuts we are in the belly of the calorie beast. Some even go as far as to dub donuts/eclairs as **"diabetes on a plate"**.
