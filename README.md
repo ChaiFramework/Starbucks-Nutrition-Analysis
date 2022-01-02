@@ -6,7 +6,7 @@ Starbucks is everyone's go to for a quick caffeine fix. Ensuring quality, quanti
 Today's generation The Millenials are more health obsessed than the generations before, While at the sametime craving some of the best the food industry has to offer. Well sometimes the best comes with a little catch. From, The colonel's chicked to dunkin's donuts we are in the belly of the calorie beast. Some even go as far as to dub donuts/eclairs as **"diabetes on a plate"**.
 <br>
 <br>
-Therefore, for this health obsessed generation and all to come, a very basic EDA analysis which can be applied and scaled to suit menus of other restaurant chains. I analyzed the calorie, protein, sodium and fat content to name a few of the drinks that appear on a Starbucks menu. Which give valuable insights regarding the distribution of said nutrients in their beverages. This EDA analysis is primarily aimed at health coaches, instructors and even people trying to plan their diet on their own time at home.
+Therefore, for this health obsessed generation and all to come, a very basic EDA analysis which can be applied and scaled to suit menus of other restaurant chains. I analyzed the calorie, protein, sodium and fat content to name a few, of the drinks that appear on a Starbucks menu. Which give valuable insights regarding the distribution of said nutrients in their beverages. This EDA analysis is primarily aimed at health coaches, instructors and even people trying to plan their diet on their own time at home.
 <br>
 <br>
 # **How to run**
