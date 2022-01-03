@@ -15,4 +15,9 @@ Therefore, for this health obsessed generation and all to come, a very basic EDA
 - Python 3.8
 - Restart Clear output.
 - Restart and run all.
+- Packages used:
+  - Pandas
+  - Matplotlib
+  - Numpy
+  - Seaborn
 - Dataset used for this particular EDA is openly available at <https://www.kaggle.com/starbucks/starbucks-menu?select=starbucks-menu-nutrition-drinks.csv>.
